@@ -4,9 +4,10 @@ import './index.css';
 
 function Home (){
     return (
-        <div>
-            hhhahshahsdhashdasdbasbdbaskdbaks asdjhajksdhkajshd ashdkjahsjkdhjahds ajsdhkasjhd
-    </div>
+        <>
+            <h2>Daniel Soria - TI </h2>
+    <       p>Soy técnico en Sistemas Operativos y Redes, actualmente me encuentro trabajando y estudiando para poder ser programador</p> 
+    </>
 
     );
 }
