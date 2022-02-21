@@ -1,1 +1,28 @@
 
+h2{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    color: antiquewhite;
+}
+
+p{
+    color: white;
+    font-size: 24px;
+    width: 50%;
+}
+
+button{
+    margin-top: 20px;
+    margin-left: 200px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: rgb(1, 39, 39);
+    border-radius: 10px;
+    color: white;
+}
+
+img{
+    max-width: 300px;
+    max-height: 300px;
+    margin-left: 50px;
+}
