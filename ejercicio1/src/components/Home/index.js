@@ -11,12 +11,13 @@ function Home (){
                 Vivo en Fray bentos</p> 
             
             <img src={yoo} alt="mi foto"/>
-            <button> Ver CV </button>
+            {/* <button> Ver CV </button> */}
 
-            function BotonVer(){
-                return ();
-                
-            } ;
+          
+            
+            
+            
+
         </>
 
         );
